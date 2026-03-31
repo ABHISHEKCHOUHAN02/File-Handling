@@ -24,7 +24,7 @@ def main():
         elif command == 'login':
             login_user()
         elif command == 'exit':
-            print("Exiting application. Goodbye! 👋")
+            print("Exiting application")
             break
         elif command == '':
             continue
