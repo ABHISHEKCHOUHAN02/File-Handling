@@ -12,7 +12,7 @@ from Auth.login_service import login_user
 
 def main():
    
-    print("   WELCOME TO THE EMPLOYEE SYSTEM       ")
+    print("   WELCOME TO THE EMPLOYEE MANAGEMENT SYSTEM       ")
    
     
     while True:
