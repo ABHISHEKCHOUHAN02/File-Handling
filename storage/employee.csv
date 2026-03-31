@@ -1,0 +1,108 @@
+emp_id,first_name,last_name,$2a$04$vLgH030Pw74O5B1FCpSgTutmSnoRESP1hRXrY4oHy6Q/elr0ZFUaO,email,gender,Phone,department,Role,salary,joining_date,Status,Location
+emp_0001,Roxi,Altamirano,$2a$04$u635el3mDSDFWQol5XISoerlCE/.iio8ueXY7E/n0kmmoyADqKACu,raltamirano0@google.com.au,Female,1687389299,Services,Supervisor,10000,13-10-2025,Active,Puerto Parra
+emp_0002,Marshal,Bremley,$2a$04$La7G4zbwEK4ELhj/h3NBp.csBNH85nddwND2Uy4cU/ecLpJ0p2VSi,mbremley1@senate.gov,Male,3602757866,Legal,Surveyor,20000,24-06-2025,Inactive,Laiyuan
+emp_0003,Nap,Schubuser,$2a$04$dGsEUqUJMfx8RuGN5Ldr3emrmlvHsYDFC6QCVnCfXulxVg5ScSBQe,nschubuser2@printfriendly.com,Male,1876164018,Human Resources,Supervisor,30000,03-01-2026,Active ,Baiquesi
+emp_0004,Doro,Aldham,$2a$04$UVgaiu79VEZjsg0SPLbrQemG7BaH7J1RJ.kXg/t0EgGeDempRUC8K,daldham3@weebly.com,Female,8291631439,Product Management,Construction Expeditor,40000,13-01-2026,Active ,Pu’er
+emp_0005,Eziechiele,Giles,$2a$04$oILJnPvNDYwAqSHMU1zBVeKBUiSynBPLayRdra/ad00iU2Nix1BDa,egiles4@dion.ne.jp,Male,3052735476,Services,Electrician,50000,09-11-2025,Inactive,Punata
+emp_0006,Hilliard,Smooth,$2a$04$K8z3QeVJumpW3Hgd7bKWa.IXCPa2RYKGkXhPG4r4LNFHI/tRZh4Tq,hsmooth5@opensource.org,Male,9869805139,Business Development,Architect,60000,17-07-2025,Active,Sobral
+emp_0007,Emera,Walentynowicz,$2a$04$C2UwJM3IgBGMHMtk0ERSveKmb6hUanqClZtWzOJ.HZUiCFbyGTn5O,ewalentynowicz6@salon.com,Female,4581961180,Engineering,Construction Worker,70000,09-04-2025,Inactive,Cerca la Source
+emp_0008,Noak,Brimson,$2a$04$N64LlvKViszanHkDAqPVKujTsMpUhbPfrlSnS6rCTgQJ8Tk4gbktG,nbrimson7@google.pl,Male,5234390522,Legal,Supervisor,80000,28-05-2025,Active ,Goshogawara
+emp_0009,Frankie,Sparham,$2a$04$PLuSLtfSe0d2rJcSyU6Tc.GuNE7WakeYAnPQZKS0pKcW/uezu2U5y,fsparham8@engadget.com,Female,5764128244,Sales,Construction Worker,90000,25-03-2025,Active ,Huoshaoping
+emp_0010,Cordell,MacConnechie,$2a$04$iZnROhluqVXefnPBXFyn8.1oxnnn9Jm4XCbAPVP4765MFWY6/d7sG,cmacconnechie9@berkeley.edu,Female,9561950824,Research and Development,Supervisor,100000,22-03-2026,Inactive,Pedome
+emp_0011,Winslow,Flintoff,$2a$04$wHUQprs/j/b/FZj1mtO4b.bVVMBqOaDKB9vKaGfHb8NTh6iCDcAcq,wflintoffa@epa.gov,Male,3989761025,Services,Subcontractor,110000,20-05-2025,Active,Cihaur
+emp_0012,Claretta,Mannooch,$2a$04$qNglCdOo7G16PK1jsjvcie6KhlbwM3kkPsG6s7FxVhGFskzAv/VEe,cmannoochb@is.gd,Female,4818828839,Marketing,Subcontractor,120000,27-07-2025,Inactive,Andalucía
+emp_0013,Tybi,Wakley,$2a$04$oMWrplVk2H6G3bc2wwD81exzlgNy2R8rdchj345C0fOa2J.KRgcNm,twakleyc@digg.com,Female,6058837787,Research and Development,Architect,130000,05-12-2025,Active ,Gyamco
+emp_0014,Miquela,Yuryshev,$2a$04$X7HplRVGyPnPPlL3kdkw9uvZFlmre4QvJliGNNDVdh7nPnQBbBy4y,myuryshevd@cbslocal.com,Female,8842507835,Support,Surveyor,140000,08-01-2026,Active ,Karlskoga
+emp_0015,Portia,Butcher,$2a$04$mZRmQUAtUpEvQVxPsG6a0ecsH.GmZriVZLa8CqkU8HW0biftTJEUW,pbutchere@patch.com,Female,5422099801,Sales,Construction Worker,150000,01-02-2026,Inactive,Rancho Nuevo
+emp_0016,Lillis,Shine,$2a$04$ejV1aHov5KQ/bZBWemC4Ye2L/pcw3IEHkPj77rkKmKJYFtkgXsd0u,lshinef@elpais.com,Female,2769202156,Services,Electrician,160000,27-06-2025,Active,Ḩalabjah
+emp_0017,Christye,Carlett,$2a$04$xA3Ib/SlNooZzL6kgRrKSOM2ViWq1l6PI8JohIVIiCEL4gMhSt7NG,ccarlettg@howstuffworks.com,Female,4813602795,Accounting,Construction Foreman,170000,27-01-2026,Inactive,Ourozinho
+emp_0018,Julia,Gwillym,$2a$04$frH089UiqNNahH77jUHoeuKnx5EvY921vz.luzB/JX0yCjO3FDgcG,jgwillymh@bloglines.com,Female,7001933256,Sales,Construction Expeditor,180000,22-01-2026,Active ,Ko Pha Ngan
+emp_0019,Charita,Siddeley,$2a$04$3lbZYnYg1K7iSFVad36DGuPhHM.Sy4omTscRuZ2FXaaca8Gf2fZLS,csiddeleyi@wordpress.com,Female,3552410355,Services,Construction Worker,190000,12-12-2025,Active ,Shimen
+emp_0020,Meir,Signore,$2a$04$ysS52cl8dZe6qeW3X3/Ek.nTD3mRG8hYk5G3YinuYwyWyDUcVAbtG,msignorej@webeden.co.uk,Male,7908935322,Support,Electrician,200000,27-11-2025,Inactive,Titab
+emp_0021,Zena,Uwins,$2a$04$faCI4zCzuJ1olCdw7EsqkepffNIelBilnUBCeCPsyZuleKKWbcMdO,zuwinsk@clickbank.net,Female,8492158730,Services,Electrician,210000,22-12-2025,Active,Thị Trấn Tủa Chùa
+emp_0022,Lurlene,Markham,$2a$04$p.YsbFUZ.GKFHAV9J5TJh.AAnO0viwoKLimOxU0ByMj/glIXCesf2,lmarkhaml@people.com.cn,Female,3426524593,Human Resources,Construction Manager,220000,11-09-2025,Inactive,Banatski Dvor
+emp_0023,Clevey,Corbishley,$2a$04$Ns.fmCJAC2gSM9jqiFwdzuXZ9oDxov/vlFaN2RRLUxn5PP7Ddm/Je,ccorbishleym@sogou.com,Male,9923874538,Business Development,Engineer,230000,28-01-2026,Active ,Rakitovo
+emp_0024,Brenden,Pietesch,$2a$04$RAqDZebLj5gj3IU4Hib63OJPCQbfl6NWb8VyJVxhFy6zeQT9LwBzu,bpieteschn@blogtalkradio.com,Male,9857322243,Services,Construction Foreman,240000,23-05-2025,Active ,Wawrzeńczyce
+emp_0025,Mario,Corrett,$2a$04$ENnqluyrA90DwDNpVcGPXea0dgPGrrdRW6eJS6AyNbVyOW/G/Fm4m,mcorretto@google.pl,Male,3343346346,Training,Construction Expeditor,250000,21-07-2025,Inactive,Landskrona
+emp_0026,Hill,Spurdon,$2a$04$78.ouFfQmdk8Bv3.rdaXUO/eiAXzoS6d7yRJMTF6bH1KEo0yMP5Y.,hspurdonp@patch.com,Male,4513334046,Services,Construction Worker,260000,01-08-2025,Active,Balagui
+emp_0027,Charmain,Wind,$2a$04$twgLZExM8DoMltcm8xNHnOaRNqoVbCBTn3Th1KuqQSFvC0PbK3CzC,cwindq@discuz.net,Female,9073012765,Product Management,Electrician,270000,25-06-2025,Inactive,Slovenske Konjice
+emp_0028,Shanon,Coppock.,$2a$04$wCfqeTBzW0qF.ypO3RavyOyjxF3H3cXxhjNLZKBXInwpUhDZZNfL2,scoppockr@google.com,Female,9584201247,Training,Electrician,280000,29-12-2025,Active ,Huangchen
+emp_0029,Niccolo,Human,$2a$04$6CY4pTzP0eC2jhjXzO9q7On39/SkcZ3gGU0L/GoyYvudPVTcuOP5C,nhumans@joomla.org,Male,9744264030,Engineering,Electrician,290000,04-11-2025,Active ,Doāba
+emp_0030,George,Riach,$2a$04$PxQOi0kvZxAulT46gPOo5.yOcZBTOpxhzVdP3pAu1lIU5/blcS9Qm,griacht@goo.gl,Female,8897745862,Training,Estimator,300000,25-04-2025,Inactive,Monte Aprazível
+emp_0031,Zacharie,Jozefczak,$2a$04$wq9MJ9igOJuWG/v7.XP12OqU/t5nsZwR6OSoFN15EGzf.UTeDLm1e,zjozefczaku@discuz.net,Male,5661421323,Engineering,Construction Manager,310000,12-01-2026,Active,Mem Martins
+emp_0032,Silvanus,Blonfield,$2a$04$EBUQwPkpYuVtdFb7rXquQOkULJBDMPf5n14DPIob1LrjlmAq.Tnsu,sblonfieldv@ft.com,Male,3635488344,Accounting,Surveyor,320000,22-07-2025,Inactive,Pirapozinho
+emp_0033,Pearline,Scryne,$2a$04$3nvIIAv6w9FHqTqNk4DQuuzwujfkQuDYu5l6ZAGyk3TvueHjX5D1q,pscrynew@webnode.com,Female,4137329210,Research and Development,Construction Foreman,330000,18-12-2025,Active ,Jangheung
+emp_0034,Gale,Blanchette,$2a$04$OeIFXulwf9g.baPPyOJBruAsL1zLNKgI0FOppOc4.8UbnHzMQbocK,gblanchettex@army.mil,Female,8286328752,Training,Subcontractor,340000,12-01-2026,Active ,Pont-Rouge
+emp_0035,Shermy,Bickardike,$2a$04$81S1dBJcQPpHIFA1S2Lv2.pPLKeJ4um.o5uLcDU.c8vv9bYxa6Hm6,sbickardikey@mit.edu,Male,2725948782,Business Development,Project Manager,350000,30-12-2025,Inactive,Gomel
+emp_0036,Margaretha,Isac,$2a$04$2YQ41NWb7zmYyMJKMfVjveGLaP1rPK1lfVR2q.nixd0Vkq9wnuK4i,misacz@stumbleupon.com,Female,1763465959,Human Resources,Supervisor,360000,15-02-2026,Active,Abóboda
+emp_0037,Onfroi,Budge,$2a$04$6bUayC1/64cXJpiUkLu70eC9UJu97I8EvM7AvHpOoC3TdZyFVfp3e,obudge10@etsy.com,Male,5568821384,Product Management,Electrician,370000,23-09-2025,Inactive,Shuangxiqiao
+emp_0038,Madeline,Peppard,$2a$04$pkfB5JxMQTLjt.0R1f1KWuvvn2pLIsiJ91RR1gPaxokA9/u1TlmLK,mpeppard11@sohu.com,Female,2973204962,Research and Development,Construction Expeditor,380000,07-09-2025,Active ,Potrerillos
+emp_0039,Fields,Newbery,$2a$04$pCsMdPOd9ZoxLSGBL6Gw7ubV2uXqWTctuIth4fxX5.qBbOXZOS8b2,fnewbery12@bizjournals.com,Male,2347262066,Services,Construction Manager,390000,28-06-2025,Active ,Byala Slatina
+emp_0040,Waring,Duchesne,$2a$04$Ckj80dYan0C9wi/N/7Tfb.Zm.QVoMkBjz8O31g1I4JZC9Iff8jogu,wduchesne13@admin.ch,Male,4307328221,Accounting,Construction Expeditor,400000,29-04-2025,Inactive,Vila Franca de Xira
+emp_0041,Patrice,Reford,$2a$04$rO.zQlsY4oBx8CxihZ4eDumhMmvjW3LLvP38FUpjaWjkR3WRITbr6,preford14@purevolume.com,Female,8173525527,Accounting,Subcontractor,410000,14-03-2026,Active,Qinghua
+emp_0042,Nigel,Milson,$2a$04$0tSy394ke7mXvhgXhXdBwe7DyB0c8YdcT8SVtMDjj8rY6nKOQ9alG,nmilson15@wunderground.com,Male,6699248101,Product Management,Estimator,420000,16-04-2025,Inactive,Mene de Mauroa
+emp_0043,Ailbert,McFarlane,$2a$04$TK7qhb1uzSl2XD.c90hKIu7rf4UCXS3FUaQ4liSE76uJsNFTrhvuy,amcfarlane16@ycombinator.com,Male,3812855671,Legal,Surveyor,430000,20-05-2025,Active ,Selikhino
+emp_0044,Shepherd,Kuzma,$2a$04$cDUVuuHjKYTInqyVpO094uy0VbOEUgSGN2JiRlm9E0GC.J8KzlRMe,skuzma17@apple.com,Male,6286457549,Sales,Architect,440000,14-06-2025,Active ,Chak
+emp_0045,Conan,Feirn,$2a$04$Vr.2atbOK0.NL/uljM709eDyRlb/yOZKDVhcm9mtDV3tiV22tk916,cfeirn18@usa.gov,Male,5638516898,Accounting,Architect,450000,08-02-2026,Inactive,Cill Airne
+emp_0046,Armand,Beaty,$2a$04$HC3xLo2g6aGZqFgp98nRbuN8HUsCo3SR2yyBhNm4RdXrZ7k1bFdUG,abeaty19@dell.com,Male,3989877952,Human Resources,Electrician,460000,09-11-2025,Active,Zhavoronki
+emp_0047,Lenora,Baskerville,$2a$04$Sb8dAEJ4Co8X.pVw20fKyuWyNYVaWK.D8Px06/W3B43LrPxx2AXXa,lbaskerville1a@dropbox.com,Female,6148243377,Accounting,Engineer,470000,04-01-2026,Inactive,Sinarbakti
+emp_0048,Alford,Wareham,$2a$04$XuOnxlwWJIWJKgL/e5N9C.XCzm.fk0DLYzold5DQGnjdLZ/1HgdEK,awareham1b@hugedomains.com,Male,9353530757,Business Development,Architect,480000,28-07-2025,Active ,Jagiełła
+emp_0049,Dee dee,Rettie,$2a$04$3D2E5VonXCwYD2AgfwsBheFHpZFyaY18RdIjOCdYHzKNiQgTOrkNe,drettie1c@stanford.edu,Female,4279455087,Support,Subcontractor,490000,05-06-2025,Active ,Weizheng
+emp_0050,Cly,Larner,$2a$04$imjiYwkgARhO4Ba2wToTN.NScQmlX9OS45sjq2FZBKHWjTGhlW8xm,clarner1d@vimeo.com,Male,1613247319,Accounting,Engineer,500000,27-09-2025,Inactive,Shadili
+emp_0051,Garold,Feaster,$2a$04$oQL.Cswbhewcq.bVwK2MUuuSOTjh2/u25ocIOOr4H7nQzD0W8/K76,gfeaster1e@soundcloud.com,Male,8197944116,Sales,Construction Foreman,510000,17-02-2026,Active,Shifang
+emp_0052,Briant,Challicombe,$2a$04$HVoNzzqOwSsRRbMqBcij1OJdoTp9vWqLCrr79sVDfoy.s1qVmtldy,bchallicombe1f@parallels.com,Male,2939292616,Research and Development,Subcontractor,520000,16-02-2026,Inactive,Obolo-Eke (1)
+emp_0053,Fielding,Arundell,$2a$04$SfEdCT.xywXRC9LHWa9m/OeX.m9fKoKmhf5cJ1.yoWBzdeHN8qIQu,farundell1g@theguardian.com,Male,9366284075,Sales,Surveyor,530000,22-03-2026,Active ,Malabor
+emp_0054,Julissa,Rowbottam,$2a$04$XBv82mCwbtHAZk7/TT30FeoMd1mQu9Oa969R4sSjCA6mn4raA/urC,jrowbottam1h@amazon.de,Female,6464352206,Accounting,Subcontractor,540000,04-08-2025,Active ,Rizómilos
+emp_0055,Kelbee,Magister,$2a$04$TV0UF66J6oQBbwkPDef05uFOejnAj45IKdAMCFZgXWlDeujeCn/gG,kmagister1i@dot.gov,Male,5027977968,Legal,Construction Foreman,550000,18-01-2026,Inactive,Nkove
+emp_0056,Amata,Carmen,$2a$04$3W3dsEcSeAOb2pYfv/26k.ZJiZk0Qh9q6ZW6r2PhvAeqi4sMkjwVO,acarmen1j@oakley.com,Female,9443353888,Human Resources,Project Manager,560000,17-04-2025,Active,Guixi
+emp_0057,Gaelan,Halpine,$2a$04$EbDj5oEvxQ7FXs1DU3C6KeauPZ/S7dDJXH0zY1QfdsYSG1c990AfK,ghalpine1k@pen.io,Male,1745462908,Sales,Supervisor,570000,16-01-2026,Inactive,Nanortalik
+emp_0058,Isobel,Triggel,$2a$04$z5pouw9Fdw1w0kfKr9JF0.82xSP7jq/xj.ft3W0nWVvUpxhx/Ji.i,itriggel1l@xrea.com,Female,2318809833,Legal,Surveyor,580000,27-07-2025,Active ,Kuliyapitiya
+emp_0059,Tomasina,Symmons,$2a$04$cWxXW2inDYuAi2UaluY2WepqDpHYyCJ6VSBMtD7s.Ct5fo/89mBGa,tsymmons1m@live.com,Female,9252202134,Support,Surveyor,590000,27-11-2025,Active ,Beiqiao
+emp_0060,Chadwick,Sharrock,$2a$04$CPiiIxRfVQvU5m4.OVFh6Oj499SXA1v5pbvMAVTj2aJOKy4qpZPMa,csharrock1n@php.net,Male,7703604626,Services,Construction Foreman,600000,17-02-2026,Inactive,Khān Yūnis
+emp_0061,Olav,Spinnace,$2a$04$bLY2dhcDk42xfpC2z1pJo.hEj05rLL9Gwm9nZaDlPWTvF7n0fG5ra,ospinnace1o@surveymonkey.com,Male,6981650190,Product Management,Estimator,610000,06-03-2026,Active,Xinchengzi
+emp_0062,Fancie,Picard,$2a$04$XGSUc7LohMExv7/QDx3UEe05fjEuiuM.tyJAsH9umMOI7/3LfhWnu,fpicard1p@live.com,Female,6129732354,Human Resources,Architect,620000,23-03-2026,Inactive,Waru Selatan
+emp_0063,Paddie,Schuricke,$2a$04$ZrJ8CCEklX0neTpxjOpbuOwA64FeWZktP/WHgqbhmlXv08H4zoUCK,pschuricke1q@furl.net,Male,3279354392,Sales,Electrician,630000,17-07-2025,Active ,Shijie
+emp_0064,Orelle,Howbrook,$2a$04$kBYHF599ikEPT0DptZdK3uHZVvctylg1TOTYLmfzC9KjfwXaZqLTq,ohowbrook1r@amazonaws.com,Female,7088205160,Research and Development,Construction Foreman,640000,03-07-2025,Active ,Lacabamba
+emp_0065,Erin,Kornilyev,$2a$04$v.8uIg/b2R0IsZJxFgGhh.QSFxFm8hhDvWgVIu0XFO50aSbU8vu1C,ekornilyev1s@businessinsider.com,Male,4969951520,Services,Project Manager,650000,24-11-2025,Inactive,Lemland
+emp_0066,Reinald,Lingner,$2a$04$3eR6hnbR11AwqsxkSU/elOyE1sPjviDGcc0V2pK1n52mxUP91P0ki,rlingner1t@booking.com,Male,8247647271,Legal,Estimator,660000,06-09-2025,Active,Youxi Chengguanzhen
+emp_0067,Filbert,Jordison,$2a$04$TK0g.9mfjpH.K.up2DJkguGYpR2xpti0C.QRNopJekA4wPQptxVCO,fjordison1u@csmonitor.com,Male,4541046512,Human Resources,Supervisor,670000,29-07-2025,Inactive,Hongqi
+emp_0068,Birk,Hargerie,$2a$04$1Q3JBRcEnHH4MXQoi4TVJuUyQ4zq0XvCMI5bKBHrF/CglRX5wlVCS,bhargerie1v@joomla.org,Male,7702011189,Sales,Supervisor,680000,25-09-2025,Active ,Rancapare
+emp_0069,Allin,Masham,$2a$04$d1BylLhNBtAIR.QX1CBj2uRFmdBhaz4pxJtGXtIHVn7TomXjHKzDO,amasham1w@cisco.com,Male,5326363985,Legal,Architect,690000,01-06-2025,Active ,Jiamachi
+emp_0070,Manda,Moat,$2a$04$z.1X0IjDPI3Nhx5ievkOB.40Gjg0KaU07kryM0hEIxD1nH0.QYns.,mmoat1x@com.com,Male,3183191349,Engineering,Engineer,700000,15-01-2026,Inactive,Zhongzhai
+emp_0071,Lombard,Soigne,$2a$04$WyW3OUC1958AWWuSF/MZ7uQcVx5eKZG6nbrwhBCP9f.khr6WPgiFW,lsoigne1y@1und1.de,Male,5716823895,Engineering,Surveyor,710000,05-10-2025,Active,Ar Rābiyah
+emp_0072,Sayres,Matlock,$2a$04$92vGqSLHYgyyF19eH5xIJ.C5WoZKXOLTR5C3aV1Xj8Ou2jvTnocsW,smatlock1z@hubpages.com,Male,6574704581,Business Development,Subcontractor,720000,20-12-2025,Inactive,Urung
+emp_0073,Elroy,Ewart,$2a$04$N075QMUiPqQX.6.ujBz91OAcaRl8fCjTUJjdbH/YQUUY2egMlvDXO,eewart20@diigo.com,Male,8297347314,Research and Development,Engineer,730000,17-01-2026,Active ,Maunatlala
+emp_0074,Agneta,Jeacop,$2a$04$sK2j905k7orecDi8JFZqMO.Efg2PSYMo0BaWR3tyKTO3hw2HnQ8iC,ajeacop21@unesco.org,Female,8234803866,Support,Project Manager,740000,22-04-2025,Active ,Dagang
+emp_0075,Kipper,Hitchens,$2a$04$9FDGJK2Hm34PgxZjzyx.BuUOPnfisQyIHjBhdgogT6K1qhMiU8wku,khitchens22@cyberchimps.com,Female,3439750131,Accounting,Construction Manager,750000,18-01-2026,Inactive,Jocotenango
+emp_0076,Jim,Faint,$2a$04$nKKB5SkSYpxhw4X5JBjVB.mz44jAzZhAIqid6SiyAufWGhbjJozC6,jfaint23@ameblo.jp,Male,9012995787,Accounting,Supervisor,760000,04-03-2026,Active,Ilihan
+emp_0077,Gwyneth,Nelane,$2a$04$R2qMEcMJc.Uvf4VYjeSnw.2q0qxXWSP3RiLEg63gLsuMZFS57P9i6,gnelane24@hp.com,Female,4066357607,Business Development,Project Manager,770000,03-12-2025,Inactive,Čerčany
+emp_0078,Jerrilyn,Iffe,$2a$04$ZMPM56M35iL6zZ8rrQNnvelgTHDiYoXofJZBmh1rrGRpW/zPvizGq,jiffe25@cnn.com,Female,7003771351,Training,Construction Manager,780000,31-03-2025,Active ,Rongcheng
+emp_0079,Catina,Haggith,$2a$04$Xz4DAX/ikH.n/yAaHt32aeNN2UBVCllyW4bd85MwsYdDEDiL2wC2W,chaggith26@answers.com,Female,1693011931,Human Resources,Subcontractor,790000,26-06-2025,Active ,Hendījān
+emp_0080,Nicoli,Gath,$2a$04$Kw65RQSuB97iNWaKHsxgMe0tkn3hAhZD3Hy16siiJ4BAMh8yngrVq,ngath27@g.co,Female,2402863935,Support,Construction Foreman,800000,02-02-2026,Inactive,Cahul
+emp_0081,Ruddy,Reyes,$2a$04$wo1AQb1X9iDDbu3fw.D6gezX26UZPDSS4ZNOID./58BybExPl.Ici,rreyes28@craigslist.org,Male,7044038124,Research and Development,Construction Worker,810000,23-06-2025,Active,Georgetown
+emp_0082,Belinda,Hawkin,$2a$04$Wlg7WaK2y/ZtxGZqPmZojOJZ528CV5U30LMJEEfYym7FnaTkTLBhK,bhawkin29@salon.com,Male,9078832276,Services,Construction Manager,820000,18-11-2025,Inactive,Malvern
+emp_0083,Allin,Blowfield,$2a$04$bQUfzJHkoxT27RRRPvsH2OKZUWX5RsNPkWJ9pgbIfesE24vrVJhNG,ablowfield2a@slashdot.org,Male,6529454017,Services,Supervisor,830000,14-05-2025,Active ,Changuinola
+emp_0084,Gallagher,Docharty,$2a$04$yeDNOuIGuHYZBtdiYd.zu./idqyNkul9Iaq.NaqHUkikdC6ygLsUS,gdocharty2b@storify.com,Male,8512081832,Marketing,Subcontractor,840000,19-04-2025,Active ,Rumburk
+emp_0085,Ronny,Slessar,$2a$04$NIbaJ8ljyBIF33bI2fJxROqwW2gy4Hv3n93hN6kpnXYrr5Sd.4ZDi,rslessar2c@bbc.co.uk,Male,6538907314,Support,Construction Worker,850000,11-05-2025,Inactive,Fort-de-France
+emp_0086,Denys,Steels,$2a$04$856Iqe4qahfaiHZj7uMQHOHrmNvhs8HyrI8xINb01y03MQZ7FWjGO,dsteels2d@mapy.cz,Male,1156572400,Product Management,Construction Expeditor,860000,24-02-2026,Active,Agpangi
+emp_0087,Royce,Weber,$2a$04$x6DgThSLgE2fwAF1fChuhOic14UkXGKRfdLy.3RnoBBtbVp3V5Vku,rweber2e@quantcast.com,Male,7227968862,Product Management,Project Manager,870000,10-08-2025,Inactive,Soloma
+emp_0088,Rosemaria,Lillicrap,$2a$04$lGjGb5WSDbgF76wluwbGtuZIW2S8WCdrziN0c9gNMgSnSMXWSf2Ea,rlillicrap2f@businesswire.com,Female,3944361890,Research and Development,Electrician,880000,13-05-2025,Active ,Chating
+emp_0089,Anestassia,Moar,$2a$04$lVAXoxqyczQ.npvTNjTMDOrpGTWiwptzEk1Ul.BpJdqzGw3mu25Fi,amoar2g@patch.com,Female,8786936099,Engineering,Subcontractor,890000,07-08-2025,Active ,Huertas
+emp_0090,Camel,Dibben,$2a$04$CTYhhHPTHx4GV.g8wIH8ROH6LohznTs4aYV3jD8YJoaS8dcVRlLPe,cdibben2h@ning.com,Female,8469474544,Product Management,Construction Expeditor,900000,11-12-2025,Inactive,Choma
+emp_0091,Adan,Striker,$2a$04$00qNfvrU7zzsEr9cUy3d0.qTLAj9Jn5Arz.pZue842nyxWiVSXcpS,astriker2i@ca.gov,Female,6028307497,Engineering,Surveyor,910000,08-06-2025,Active,Blois
+emp_0092,Jeffry,Flegg,$2a$04$F4dr2XqU.br0EzQ4NOBjaef7jrf5gcKw5TDKAcg/3oDKeeHkvsjXW,jflegg2j@smugmug.com,Male,1812870682,Services,Construction Worker,920000,12-05-2025,Inactive,Vinha
+emp_0093,Temple,Thorburn,$2a$04$osdlY4LvHQrfBwkwcTm4KOLF1NcLkLNJ6kgw6reAUIgkRQeEWwxFW,tthorburn2k@usnews.com,Male,1029177130,Sales,Construction Worker,930000,19-08-2025,Active ,Haibara
+emp_0094,Eduard,Cuttelar,$2a$04$hF7AOaDS9cjBZKQtjinu4ebAbA1BrPcdWfJE6YDGIlmWxM66uSyXC,ecuttelar2l@ucoz.com,Male,6129432209,Human Resources,Construction Manager,940000,10-10-2025,Active ,Shuangjing
+emp_0095,Frank,Szymanek,$2a$04$AXec41VceCKkacuZbdMTcuwb2I4j9pSCm1.nbW6U2SgGF7uIWbcju,fszymanek2m@meetup.com,Female,7766670649,Accounting,Construction Expeditor,950000,03-11-2025,Inactive,Tanjiaqiao
+emp_0096,Karleen,Patullo,$2a$04$X6qTuXXSPcQAmclpsn1U4uDhnw8HQdKSimsb73W21lj6B4HdsqX3a,kpatullo2n@si.edu,Female,7224483449,Support,Construction Manager,960000,25-12-2025,Active,Kashar
+emp_0097,Aurelea,Bainton,$2a$04$AGON70c6eNKovnChgC5B/.Jvd0wTH9qlR9FAO32wOJyyd0mSoGM0u,abainton2o@guardian.co.uk,Female,7571871394,Human Resources,Project Manager,970000,04-09-2025,Inactive,Chesapeake
+emp_0098,Elvin,Rosewall,$2a$04$wxdZW3C6DjiaGPSiuAFwc.NUvFdgzaeVzIABSYvYkzj/Nk66LLPGK,erosewall2p@jugem.jp,Male,1193285353,Sales,Architect,980000,26-10-2025,Active ,Usol’ye
+emp_0099,Adolpho,Kleinbaum,$2a$04$Vxw/yRJpFimSxZe5GIY.o.Bd67itHVa3FPIl4oaJ9SQ/SfKGAPZlm,akleinbaum2q@netlog.com,Male,6607066255,Support,Electrician,990000,28-07-2025,Active ,‘Afak
+emp_0100,Desmond,Gately,,dgately2r@wordpress.org,Male,1153142315,Services,Project Manager,1000000,08-09-2025,Inactive,Wucheng
+EMP0109,Abhishekl,Chouhan,29c2bbaf7a573a0f4a9290d3994b25dc:c89fd851c4d5462afe159376f7da9fcd9717cff134242f963c02d04f15717a45,abhi@gmai.com,Male,347623938,IT,AI,10000,2026-1-19,Active,jaipur
+EMP0110,abhi,sunny,401351e5994524396179faa98b9642b2:a9bdb472dff1dbfd20c6508c5e2cbc61d57c539204415ccc6d7075314c1d1209,abhi@120.com,Male,823982312,IT,AI,28371,2026-02-20,Active,jaipur
+EMP0111,abhi,achouhan,9ccf6f344d326439fac214bdfff0201f:44e184b9983e896df32738b2ccc8cc48c34ba743d347a4d4b540b2aa6c47b2e2,abhk@1019.com,Male,2324629323,IT,Ai,23489,2026-2-19,Actuve,kjaipur
+EMP0112,abhk,k,c0a4f642accfa9ff5ef6ff6662d1aeb3:2525c93a638dfc58a159408d9f00b8b32ba06ad2926cf877834ffe32cfba39e4,abhk@1234.com,male,1283912374,IT,AI,84573,2025-2-19,Active,jaipur
+EMP0113,abhishek,chouhan,8797250b69202e91ec73092fc91e837b:07cc0a0b64884ab15d604d2b74dcdaf44239f5d2e883af1fcd88adf6c98755a5,aksjjshk,male,9823489234,IT,AI,12387,10-10-2025,avtive,jaipur
+EMP0114,rahul,joshi,0028151157a3cab618190a00df01c499:54292259bd8c77ead7a82b6e8c24a759405a4619cf8aa0e537c1c84ee5650a39,abhi@dsj.com,Male,+911234567890,Devops,Intern,30948.0,2026-8-19,Active,jaipur
+EMP0115,Jethalal,Gada,$2b$12$d48Q06Ed27/Vg0HXuZyt9OFJcd5gdgIL7LUCrXFGTLrb8ir49mFfO,gada@1234.com,Male,+917392756297,qa,senior developer,87346.0,2026-3-19,Active,Jaipur

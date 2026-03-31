@@ -1,0 +1,79 @@
+[
+    {
+        "attendance_id": "AT0010",
+        "employee_id": "EMP191",
+        "date": "2026-2-2",
+        "check_in_time": "10:30",
+        "check_out_time": "18:30",
+        "status": "Present",
+        "leave_type": "",
+        "leave_reason": "",
+        "working_hours": 8.0
+    },
+    {
+        "attendance_id": "ATT001",
+        "employee_id": "EMP8349",
+        "date": "2026-3-5",
+        "check_in_time": "10:00",
+        "check_out_time": "19:00",
+        "leave_type": "",
+        "leave_reason": "",
+        "status": "Present",
+        "working_hours": 9.0
+    },
+    {
+        "attendance_id": "ATT0100",
+        "employee_id": "EMP3849",
+        "date": "2026-02-02",
+        "check_in_time": "10:00",
+        "check_out_time": "20:00",
+        "leave_type": "",
+        "leave_reason": "",
+        "status": "Present",
+        "working_hours": 10.0
+    },
+    {
+        "attendance_id": "ATT023",
+        "employee_id": "EMP3948",
+        "date": "2026-1-19",
+        "check_in_time": "",
+        "check_out_time": "",
+        "leave_type": "",
+        "leave_reason": "",
+        "status": "Absent",
+        "working_hours": 0
+    },
+    {
+        "attendance_id": "ATT8374",
+        "employee_id": "EMP927",
+        "date": "2026-03-19",
+        "check_in_time": "",
+        "check_out_time": "20:20",
+        "leave_type": "",
+        "leave_reason": "",
+        "status": "Absent",
+        "working_hours": 0
+    },
+    {
+        "attendance_id": "ATT9837",
+        "employee_id": "EMP83",
+        "date": "2026-03-25",
+        "check_in_time": "",
+        "check_out_time": "19:10",
+        "leave_type": "",
+        "leave_reason": "",
+        "status": "Absent",
+        "working_hours": 0
+    },
+    {
+        "attendance_id": "ATT893274",
+        "employee_id": "EMP347",
+        "date": "2020-03-10",
+        "check_in_time": "10:10",
+        "check_out_time": "19:10",
+        "leave_type": "dhakj",
+        "leave_reason": "asjh",
+        "status": "Present",
+        "working_hours": 9.0
+    }
+]
